@@ -113,7 +113,7 @@ p.uslug {
     background-image: url('img/spritesheet.png');
     width: 52px;
     height: 52px;
-    background-position: -7px -5px;
+    background-position: -5px -5px;
 }
 
 .sprite-cont:hover {
@@ -139,7 +139,7 @@ p.uslug {
     background-image: url('img/spritesheet.png');
     width: 52px;
     height: 52px;
-    background-position: -5px -67px;
+    background-position: -4px -67px;
 }
 
 .sprite-in:hover {
@@ -152,7 +152,7 @@ p.uslug {
     background-image: url('img/spritesheet.png');
     width: 54px;
     height: 54px;
-    background-position: -67px -67px;
+    background-position: -59px -67px;
 }
 
 .sprite-tel:hover {
@@ -166,7 +166,7 @@ p.uslug {
     background-image: url('img/spritesheet.png');
     width: 53px;
     height: 52px;
-    background-position: -131px -5px;
+    background-position: -130px -5px;
 }
 
 .sprite-vat:hover {
