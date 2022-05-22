@@ -139,7 +139,7 @@ p.uslug {
     background-image: url('img/spritesheet.png');
     width: 52px;
     height: 52px;
-    background-position: -4px -67px;
+    background-position: 3px -67px;
 }
 
 .sprite-in:hover {
